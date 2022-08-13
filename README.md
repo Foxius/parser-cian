@@ -24,3 +24,11 @@
 4 - Переходим в бота Телеграмм, начинаем диалог и нажимаем на кнопку "Спарсить"
 
 ![photorepo3](https://media.discordapp.net/attachments/927545383612203018/1007969190176641066/unknown.png)
+
+5 - Отправляем ссылку из 3 шага
+
+![photorepo4](https://media.discordapp.net/attachments/927545383612203018/1007969974972846100/unknown.png)
+
+6 - в ответ получаем сообщения подобного типа:
+
+![photorepo5](https://media.discordapp.net/attachments/927545383612203018/1007970863473234002/unknown.png?width=339&height=473)
