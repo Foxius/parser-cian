@@ -6,9 +6,9 @@ import dbw as db
 from apscheduler.schedulers.background import BackgroundScheduler
 from telebot import types
 
-
-bot = telebot.TeleBot('5327867700:AAFTaMS5oatwdxXIfB6AVNuDX3x9ZWxwGyQ')
-
+########################################################################
+bot = telebot.TeleBot('5774853485:HJGBJHVBjkvjkghVJKVjkvjhVJHvjkvigud')#
+########################################################################
 markup = ReplyKeyboardMarkup(row_width=2, resize_keyboard=True)
 markup.add('Спарсить')
 
